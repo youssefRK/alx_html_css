@@ -208,7 +208,9 @@ width: calc((100% / 2) - 2rem);
 /* Navbar
   ============================= */
 
-.navbar-menu 
+.navbar-menu {
+    float: right;
+  } 
 
 .nav { 
 display: flex;    
