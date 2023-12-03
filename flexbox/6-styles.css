@@ -211,14 +211,12 @@ width: calc((100% / 2) - 2rem);
 .navbar-menu 
 
 .nav { 
-display: flex; 
-}   
+display: flex;    
 margin: 0;
 padding: 0;
 list-style: none;
 text-align: center;
-
-
+}
 .nav .nav-item {
 font-family: var(--nav-item-font-family);
 font-weight: var(--nav-item-font-weight);
