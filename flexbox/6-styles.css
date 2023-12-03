@@ -210,9 +210,8 @@ width: calc((100% / 2) - 2rem);
 
 .navbar-menu 
 
-.nav {
-    display: flex;
-    }
+.nav { 
+    display: flex;    
 margin: 0;
 padding: 0;
 list-style: none;
