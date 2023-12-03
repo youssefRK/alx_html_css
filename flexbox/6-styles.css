@@ -71,6 +71,9 @@
 --footer-padding: 5rem 0 1rem;
 
 /** NAVBAR **/
+.nav {
+    display:flex;
+}
 --nav-item-font-family: var(--font-family-headings);
 --nav-item-font-weight: var(--font-weight-bold);
 --nav-item-font-size: var(--font-size-medium);
