@@ -179,6 +179,9 @@
   
   /* Grid
       ============================= */
+      .row {
+        display: flex;
+      }
   
   ul.row {
     margin: 0;
@@ -186,11 +189,9 @@
     list-style: none;
   }
   
-  .row::after {
-    content: '';
-    display: table;
-    clear: both;
-  }
+  .row::after 
+    
+  
   
   [class*='col-'] {
     float: left;
