@@ -71,9 +71,6 @@
 --footer-padding: 5rem 0 1rem;
 
 /** NAVBAR **/
-.nav {
-    display:flex;
-}
 --nav-item-font-family: var(--font-family-headings);
 --nav-item-font-weight: var(--font-weight-bold);
 --nav-item-font-size: var(--font-size-medium);
@@ -215,6 +212,7 @@ width: calc((100% / 2) - 2rem);
 
 .nav {
     display: flex;
+    }
 margin: 0;
 padding: 0;
 list-style: none;
