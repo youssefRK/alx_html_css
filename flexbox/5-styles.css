@@ -261,6 +261,9 @@
       ============================= */
   
   .header {
+    .header-container
+    display: flex;
+    justify-content: space-between;
     padding: var(--header-padding);
          position: relative;
          z-index: 3;
